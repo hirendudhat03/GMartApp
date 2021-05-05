@@ -1,0 +1,49 @@
+=====++++=====++++=====++++=====++++
+Sign up page
+---------------
+red -> EF0000
+Name -> 9B9B9B
+sub -> 2D2D2D
+Already have an account? -> 222
+
+=====++++=====++++=====++++=====++++
+Forgot password
+------------------
+Email-> F01F0E
+
+=====++++=====++++=====++++=====++++
+Main 4
+------------------
+000000, 75757
+
+=====++++=====++++=====++++=====++++
+Main 3
+------------------
+icon-1 -> 2F9BFF
+icon-2 -> FFB82F
+icon-3 -> 60FF38
+icon-4 -> FF6E2F
+icon-5 -> FFB82F
+banner dot. -> EF0000
+banner dot2. -> FFEBEB
+Personal care product -> 223263
+$29.3 -> EF0000 
+$53.33 -> 9098B1
+Shop-> E0E0E0
+
+
+=====++++=====++++=====++++=====++++
+My Profile/My Orders
+---------------------
+Delivered-> 2AA952
+
+=====++++=====++++=====++++=====++++
+My Profile/Settings
+---------------------
+Notifications-> 2AA952 , 9B9B9B
+
+
+
+
+
+

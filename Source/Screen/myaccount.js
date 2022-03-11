@@ -118,6 +118,7 @@ const home = ({navigation}) => {
     }
 
     body.push({name: 'data', data: registerString});
+    
     if (imageDetail !== null) {
       var path = imageDetail.uri;
       let imageName = '';
